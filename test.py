@@ -22,6 +22,7 @@ import math
 import matplotlib.pyplot as plt
 
 import argparse
+import traceback
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='test.py')
@@ -162,13 +163,16 @@ if __name__ == "__main__":
                 else:
                     pass
 
-        except:
-            print('error')
+        except Exception as e:
+            print(f'error at index {index}: {e}')
+            traceback.print_exc()
 
         # if index > 100:
         #     break
 
     print("========================================================")
-    print('ncNet w/o chart template:', only_nl_match / only_nl_cnt)
-    print('ncNet with chart template:', nl_template_match / nl_template_cnt)
-    print('ncNet overall:', (only_nl_match + nl_template_match) / (only_nl_cnt + nl_template_cnt))
+    print('only_nl_cnt:', only_nl_cnt)
+    print('nl_template_cnt:', nl_template_cnt)
+    print('ncNet w/o chart template:', only_nl_match / only_nl_cnt if only_nl_cnt else 0)
+    print('ncNet with chart template:', nl_template_match / nl_template_cnt if nl_template_cnt else 0)
+    print('ncNet overall:', (only_nl_match + nl_template_match) / (only_nl_cnt + nl_template_cnt) if (only_nl_cnt + nl_template_cnt) else 0)

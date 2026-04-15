@@ -1,0 +1,340 @@
+------------------------------
+| Build vocab start ... | 
+------------------------------
+------------------------------
+| Build vocab end ... | 
+------------------------------
+------------------------------
+| Build encoder of the ncNet ... | 
+------------------------------
+------------------------------
+| Build decoder of the ncNet ... | 
+------------------------------
+------------------------------
+| Build the ncNet structure... | 
+------------------------------
+------------------------------
+| Init for training ... | 
+------------------------------
+------------------------------
+| Training start ... | 
+------------------------------
+△○△○△○△○△○△○△○△○
+Save the BEST model!
+△○△○△○△○△○△○△○△○△○
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 01 | Time: 0m 47s
+	Train Loss: 1.677 | Train PPL:   5.351
+	 Val. Loss: 0.451 |  Val. PPL:   1.569
+△○△○△○△○△○△○△○△○
+Save the BEST model!
+△○△○△○△○△○△○△○△○△○
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 02 | Time: 0m 48s
+	Train Loss: 0.109 | Train PPL:   1.116
+	 Val. Loss: 0.328 |  Val. PPL:   1.388
+△○△○△○△○△○△○△○△○
+Save the BEST model!
+△○△○△○△○△○△○△○△○△○
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 03 | Time: 0m 47s
+	Train Loss: 0.034 | Train PPL:   1.034
+	 Val. Loss: 0.303 |  Val. PPL:   1.354
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 04 | Time: 0m 47s
+	Train Loss: 0.020 | Train PPL:   1.020
+	 Val. Loss: 0.304 |  Val. PPL:   1.356
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 05 | Time: 0m 48s
+	Train Loss: 0.015 | Train PPL:   1.015
+	 Val. Loss: 0.316 |  Val. PPL:   1.372
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 06 | Time: 0m 48s
+	Train Loss: 0.012 | Train PPL:   1.012
+	 Val. Loss: 0.307 |  Val. PPL:   1.360
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 07 | Time: 0m 48s
+	Train Loss: 0.011 | Train PPL:   1.011
+	 Val. Loss: 0.309 |  Val. PPL:   1.362
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 08 | Time: 0m 48s
+	Train Loss: 0.010 | Train PPL:   1.010
+	 Val. Loss: 0.328 |  Val. PPL:   1.388
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 09 | Time: 0m 49s
+	Train Loss: 0.009 | Train PPL:   1.009
+	 Val. Loss: 0.326 |  Val. PPL:   1.385
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 10 | Time: 0m 48s
+	Train Loss: 0.008 | Train PPL:   1.008
+	 Val. Loss: 0.319 |  Val. PPL:   1.376
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 11 | Time: 0m 52s
+	Train Loss: 0.008 | Train PPL:   1.008
+	 Val. Loss: 0.358 |  Val. PPL:   1.431
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 12 | Time: 0m 50s
+	Train Loss: 0.008 | Train PPL:   1.008
+	 Val. Loss: 0.335 |  Val. PPL:   1.398
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 13 | Time: 0m 49s
+	Train Loss: 0.007 | Train PPL:   1.007
+	 Val. Loss: 0.335 |  Val. PPL:   1.398
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 14 | Time: 0m 48s
+	Train Loss: 0.006 | Train PPL:   1.006
+	 Val. Loss: 0.333 |  Val. PPL:   1.394
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 15 | Time: 0m 48s
+	Train Loss: 0.007 | Train PPL:   1.007
+	 Val. Loss: 0.330 |  Val. PPL:   1.391
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 16 | Time: 0m 48s
+	Train Loss: 0.005 | Train PPL:   1.005
+	 Val. Loss: 0.351 |  Val. PPL:   1.421
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 17 | Time: 0m 48s
+	Train Loss: 0.005 | Train PPL:   1.005
+	 Val. Loss: 0.343 |  Val. PPL:   1.409
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 18 | Time: 0m 49s
+	Train Loss: 0.006 | Train PPL:   1.006
+	 Val. Loss: 0.349 |  Val. PPL:   1.418
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 19 | Time: 0m 48s
+	Train Loss: 0.006 | Train PPL:   1.006
+	 Val. Loss: 0.351 |  Val. PPL:   1.420
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 20 | Time: 0m 48s
+	Train Loss: 0.005 | Train PPL:   1.005
+	 Val. Loss: 0.363 |  Val. PPL:   1.437
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 21 | Time: 0m 48s
+	Train Loss: 0.005 | Train PPL:   1.005
+	 Val. Loss: 0.352 |  Val. PPL:   1.422
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 22 | Time: 0m 49s
+	Train Loss: 0.004 | Train PPL:   1.004
+	 Val. Loss: 0.388 |  Val. PPL:   1.474
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 23 | Time: 0m 48s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.372 |  Val. PPL:   1.450
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 24 | Time: 0m 49s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.365 |  Val. PPL:   1.440
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 25 | Time: 0m 49s
+	Train Loss: 0.005 | Train PPL:   1.005
+	 Val. Loss: 0.378 |  Val. PPL:   1.459
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 26 | Time: 0m 48s
+	Train Loss: 0.004 | Train PPL:   1.004
+	 Val. Loss: 0.377 |  Val. PPL:   1.458
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 27 | Time: 0m 48s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.358 |  Val. PPL:   1.431
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 28 | Time: 0m 47s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.370 |  Val. PPL:   1.447
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 29 | Time: 0m 47s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.384 |  Val. PPL:   1.469
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 30 | Time: 0m 49s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.373 |  Val. PPL:   1.453
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 31 | Time: 0m 48s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.398 |  Val. PPL:   1.489
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 32 | Time: 0m 48s
+	Train Loss: 0.004 | Train PPL:   1.004
+	 Val. Loss: 0.430 |  Val. PPL:   1.537
+/home/vipuser/miniconda3/envs/ncnet/lib/python3.8/site-packages/torchtext/data/field.py:150: UserWarning: Field class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.
+  warnings.warn('{} class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.'.format(self.__class__.__name__), UserWarning)
+/home/vipuser/miniconda3/envs/ncnet/lib/python3.8/site-packages/torchtext/data/example.py:68: UserWarning: Example class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.
+  warnings.warn('Example class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.', UserWarning)
+/home/vipuser/miniconda3/envs/ncnet/lib/python3.8/site-packages/torchtext/data/example.py:78: UserWarning: Example class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.
+  warnings.warn('Example class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.', UserWarning)
+/home/vipuser/miniconda3/envs/ncnet/lib/python3.8/site-packages/torchtext/data/iterator.py:48: UserWarning: BucketIterator class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.
+  warnings.warn('{} class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.'.format(self.__class__.__name__), UserWarning)
+/home/vipuser/miniconda3/envs/ncnet/lib/python3.8/site-packages/torchtext/data/batch.py:23: UserWarning: Batch class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.
+  warnings.warn('{} class will be retired soon and moved to torchtext.legacy. Please see the most recent release notes for further information.'.format(self.__class__.__name__), UserWarning)
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 33 | Time: 0m 47s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.399 |  Val. PPL:   1.491
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 34 | Time: 0m 47s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.378 |  Val. PPL:   1.459
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 35 | Time: 0m 47s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.409 |  Val. PPL:   1.505
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 36 | Time: 0m 47s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.415 |  Val. PPL:   1.514
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 37 | Time: 0m 47s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.396 |  Val. PPL:   1.486
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 38 | Time: 0m 49s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.402 |  Val. PPL:   1.495
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 39 | Time: 0m 50s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.393 |  Val. PPL:   1.481
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 40 | Time: 0m 48s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.401 |  Val. PPL:   1.494
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 41 | Time: 0m 47s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.401 |  Val. PPL:   1.493
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 42 | Time: 0m 47s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.409 |  Val. PPL:   1.506
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 43 | Time: 0m 48s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.429 |  Val. PPL:   1.536
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 44 | Time: 0m 47s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.422 |  Val. PPL:   1.524
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 45 | Time: 0m 47s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.446 |  Val. PPL:   1.562
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 46 | Time: 0m 47s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.445 |  Val. PPL:   1.560
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 47 | Time: 0m 48s
+	Train Loss: 0.003 | Train PPL:   1.003
+	 Val. Loss: 0.432 |  Val. PPL:   1.541
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 48 | Time: 0m 48s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.424 |  Val. PPL:   1.528
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 49 | Time: 0m 48s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.445 |  Val. PPL:   1.561
+△○△○△○△○△○△○△○△○
+Save ncNet!
+△○△○△○△○△○△○△○△○△○
+Epoch: 50 | Time: 0m 47s
+	Train Loss: 0.002 | Train PPL:   1.002
+	 Val. Loss: 0.438 |  Val. PPL:   1.550
